@@ -52,10 +52,10 @@
               <div class="row">
                 <div class="col-md-6 align-self-center">
                   <div class="right-content">
-                    <span>Lorem ipsum dolor sit amet</span>
-                    <h2>Get to know about <em>our company</em></h2>
-                    <p>Fusce nec ultrices lectus. Duis nec scelerisque risus. Ut id tempor turpis, ac dignissim ipsum. Nulla ullamcorper, ipsum vel condimentum congue, mi odio vehicula tellus, sit amet malesuada justo sem. 
-                    <br><br>Pellentesque in sagittis lacus, vel auctor sem. Quisque eu quam eleifend, ullamcorper dui nec, luctus quam.</p>
+                    <span>Voluntários que fazem a diferença</span>
+                    <h2>Mais sobre a<em>IASHE</em></h2>
+                    <p>A IASHE promove suporte técnico para a reforma ou construção de moradias economicas e ajudar a comunidade 
+                    <br><br>Promovemos eventos periódicos para a comunidade, trazendo alegria para nossas crianças.</p>
                   </div>
                 </div>
                 <div class="col-md-6">
@@ -75,36 +75,36 @@
         <div class="row">
           <div class="col-md-6">
             <div class="left-content">
-              <span>Lorem ipsum dolor sit amet</span>
-              <h2>Modi esse sapiente tenetur <em>impedit laudantium laborum</em></h2>
-              <p>Pellentesque ultrices at turpis in vestibulum. Aenean pretium elit nec congue elementum. Nulla luctus laoreet porta. Maecenas at nisi tempus, porta metus vitae, faucibus augue. 
-              <br><br>Fusce et venenatis ex. Quisque varius, velit quis dictum sagittis, odio velit molestie nunc, ut posuere ante tortor ut neque.</p>
+              <span>Nossa ONG, nossos resultados</span>
+              <h2>Moradias <em>Economicas</em></h2>
+              <p>Construindo um mundo melhor, um tijolo de cada vez. 
+              <br><br>A IASHE mostra seus números .</p>
             </div>
           </div>
           <div class="col-md-6 align-self-center">
             <div class="row">
               <div class="col-md-6">
                 <div class="count-area-content">
-                  <div class="count-digit">100000</div>
-                  <div class="count-title">Words</div>
+                  <div class="count-digit">1200</div>
+                  <div class="count-title">Moradias</div>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="count-area-content">
-                  <div class="count-digit">1280</div>
-                  <div class="count-title">Articles</div>
+                  <div class="count-digit">128</div>
+                  <div class="count-title">Crianças assistidas</div>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="count-area-content">
-                  <div class="count-digit">12</div>
-                  <div class="count-title">Awards</div>
+                  <div class="count-digit">720</div>
+                  <div class="count-title">Cestas básicas entregues</div>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="count-area-content">
-                  <div class="count-digit">26</div>
-                  <div class="count-title">Trending</div>
+                  <div class="count-digit">11</div>
+                  <div class="count-title">Cidades</div>
                 </div>
               </div>
             </div>

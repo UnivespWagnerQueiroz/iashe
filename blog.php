@@ -50,11 +50,14 @@
             <section class='tabs-content'>
               <article id='tabs-1'> <!-- Artigo -->
                 <img src="assets/images/blog-image-1-940x460.jpg" alt="">
-                <h4><a href="blog-details.html">Exemplo de artigo do Blog</a></h4>
+                <h4><a href="blog-details.html">Roarrrrrr!!!</a></h4>
                 <div style="margin-bottom:10px;">
-                  <span>Nome do Autor &nbsp;|&nbsp; 27.07.2020 10:10 &nbsp;|&nbsp; 15 comentarios</span>
+                  <span>Regiane &nbsp;|&nbsp; 27.07.2024 10:10 &nbsp;|&nbsp; 1 comentario</span>
                 </div>
-                <p>Texto do artigo criado.</p>
+                <p>Nossa campanha de Natal de 2024 já começou, Vamos colocar um sorriso em cada criança.<br>
+				   Iniciamos a arrecadação de Brinquedos. Nossas caixas de doação estao prontas para ganhar 
+				   brinquedos e trazer alegria ao mundo. Aquele brinquedo triste, abandonado num canto,
+				   poderá ganhar um novo lar, conhecer uma nova criança que vai amar. </p>
                 <br>
                 <div>
                   <a href="blog-details.html" class="filled-button">Continue a leitura</a>
@@ -67,11 +70,11 @@
 
               <article id='tabs-2'>
                 <img src="assets/images/blog-image-2-940x460.jpg" alt="">
-                <h4><a href="blog-details.html">Titulo do segundo artigo</a></h4>
+                <h4><a href="blog-details.html">Brincadeira de criança</a></h4>
                 <div style="margin-bottom:10px;">
-                  <span>Autor do Artigo &nbsp;|&nbsp; 27.07.2020 10:10 &nbsp;|&nbsp; 15 comments</span>
+                  <span>Gabriel &nbsp;|&nbsp; 12.10.2024 10:10 &nbsp;|&nbsp; 15 comments</span>
                 </div>
-                <p>Sed ut dolor in augue cursus ultrices. Vivamus mauris turpis, auctor vel facilisis in, tincidunt vel diam. Sed vitae scelerisque orci. Nunc non magna orci. Aliquam commodo mauris ante, quis posuere nibh vestibulum sit amet</p>
+                <p>Nossa festa do dia da criança de 2024 foi um sucesso! Saiba maiores detalhes sobre nossa festa clicando.</p>
                 <br>
                 <div>
                   <a href="blog-details.html" class="filled-button">Continue a leitura</a>

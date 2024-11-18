@@ -39,10 +39,10 @@
           <div class="item item-1">
             <div class="img-fill">
                 <div class="text-content">
-                  <h6>lorem ipsum dolor sit amet!</h6>
-                  <h4>Quam temporibus accusam <br> hic ducimus quia</h4>
-                  <p>Magni deserunt dolorem consectetur adipisicing elit. Corporis molestiae optio, laudantium odio quod rerum maiores, omnis unde quae illo.</p>
-                  <a href="blog.html" class="filled-button">Read More</a>
+                  <h6>Uma boa moradia é um direito de todos!</h6>
+                  <h4>Nossa maior Alegria<br> é ajudar </h4>
+                  <p>Bem vindo ao nosso site A IASHE promove a qualidade de vida com a construção de moradias de forma Economica. Conheça nossos eventos abaixo</p>
+                  <a href="blog.html" class="filled-button">Saiba mais</a>
                 </div>
             </div>
           </div>
@@ -51,9 +51,9 @@
           <div class="item item-2">
             <div class="img-fill">
                 <div class="text-content">
-                  <h6>magni deserunt dolorem harum quas!</h6>
-                  <h4>Aliquam iusto harum <br>  ratione porro odio</h4>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At culpa cupiditate mollitia adipisci assumenda laborum eius quae quo excepturi, eveniet. Dicta nulla ea beatae consequuntur?</p>
+                  <h6>Contruindo uma vida por vez</h6>
+                  <h4>Nosso sonho é construir<br> um mundo melhor </h4>
+                  <p>Onde cada pessoa, possa ter uma moradia digna, segura e construida de forma economica. </p>
                   <a href="sobre.php" class="filled-button">Sobre a IASHE</a>
                 </div>
             </div>
@@ -63,9 +63,9 @@
           <div class="item item-3">
             <div class="img-fill">
                 <div class="text-content">
-                  <h6>alias officia qui quae vitae natus!</h6>
-                  <h4>Lorem ipsum dolor <br>sit amet, consectetur.</h4>
-                  <p>Vivamus ut tellus mi. Nulla nec cursus elit, id vulputate mi. Sed nec cursus augue. Phasellus lacinia ac sapien vitae dapibus. Mauris ut dapibus velit cras interdum nisl ac urna tempor mollis.</p>
+                  <h6>Entre em contato</h6>
+                  <h4>Volutários são sempre <br>bem vindos.</h4>
+                  <p>Assim como Tijolos que constroem casas, Você pode fazer parte da nossa grande família. Ou apenas, bater um papo. Estamos aqui para ajudar.</p>
                   <a href="contato.php" class="filled-button">Contate-nos</a>
                 </div>
             </div>
@@ -98,17 +98,17 @@
             <section class='tabs-content'>
               <article id='tabs-1'>
                 <img src="assets/images/blog-image-1-940x460.jpg" alt="">
-                <h4><a href="blogB.php">Lorem ipsum dolor sit amet, consectetur adipisicing.</a></h4>
+                <h4><a href="blogB.php">Nosso blog dolor sit amet, consectetur adipisicing.</a></h4>
                 <p>Sed ut dolor in augue cursus ultrices. Vivamus mauris turpis, auctor vel facilisis in, tincidunt vel diam. Sed vitae scelerisque orci. Nunc non magna orci. Aliquam commodo mauris ante, quis posuere nibh vestibulum sit amet.</p>
               </article>
               <article id='tabs-2'>
                 <img src="assets/images/blog-image-2-940x460.jpg" alt="">
-                <h4><a href="blogB.php">Mauris lobortis quam id dictum dignissim</a></h4>
+                <h4><a href="blogB.php">Blog Artigo2 quam id dictum dignissim</a></h4>
                 <p>Sed ut dolor in augue cursus ultrices. Vivamus mauris turpis, auctor vel facilisis in, tincidunt vel diam. Sed vitae scelerisque orci. Nunc non magna orci. Aliquam commodo mauris ante, quis posuere nibh vestibulum sit amet</p>
               </article>
               <article id='tabs-3'>
                 <img src="assets/images/blog-image-3-940x460.jpg" alt="">
-                <h4><a href="blogB.php">Class aptent taciti sociosqu ad litora torquent per</a></h4>
+                <h4><a href="blogB.php">Blog 3 sociosqu ad litora torquent per</a></h4>
                 <p>Mauris lobortis quam id dictum dignissim. Donec pellentesque erat dolor, cursus dapibus turpis hendrerit quis. Suspendisse at suscipit arcu. Nulla sed erat lectus. Nulla facilisi. In sit amet neque sapien. Donec scelerisque mi at gravida efficitur. Nunc lacinia a est eu malesuada. Curabitur eleifend elit sapien, sed pulvinar orci luctus eget. 
                 </p>
               </article>
